@@ -1,0 +1,20 @@
+.Table_Conatiner{
+    display: flex;
+    /* justify-content: left; */
+    margin: auto;
+
+}
+.Table_Head{
+    display: flex;
+    justify-content: center;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+.Table_Main{
+  text-align: left;
+    border-bottom: 1px solid darkgrey;
+    background-color: lightgray;
+    /* border-Top: 1px solid darkgrey; */
+}
